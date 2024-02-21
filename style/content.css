@@ -1,0 +1,111 @@
+
+/*HEADER CONTENT*/
+.header-date-time{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    margin-bottom: 10px;
+    width: 1200px;
+    max-width: 90%;
+    line-height: 1.15px;
+    -webkit-text-size-adjust: 100%;
+}
+
+.name-main{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 54px;
+    line-height: 84px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    text-align: center;
+    -webkit-letter-spacing: 0.01em;
+    -moz-letter-spacing: 0.01em;
+    -ms-letter-spacing: 0.01em;
+    letter-spacing: 0.01em;
+    display: block;
+    color: #311d0e;
+}
+
+.info-main{
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    border-style: none none solid none;
+    border-width: 2px;
+    border-color: #003366;
+}
+
+.date-main{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+}
+
+.tud{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    -webkit-letter-spacing: 0.01em;
+    -moz-letter-spacing: 0.01em;
+    -ms-letter-spacing: 0.01em;
+    letter-spacing: 0.01em;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+}
+
+.god-knows{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
+}
+
+
+
+
+
+
+/*CONTENT SECTION*/
+.content-body-main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.content-body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+    max-width: 90%;
+}
+

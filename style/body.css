@@ -1,0 +1,34 @@
+/*BACKGROUND COLORS*/
+.color-blue-bg{
+    background-color: #003366;
+}
+.color-dark-brown-bg{
+    background-color: #311d0e;
+}
+.color-offWhite-bg{
+    background-color: #FFF8DC;
+}
+.color-brown-bg{
+    background-color: #834C24;
+}
+
+
+/*FONT COLORS*/
+.color-blue-f{
+    color: #003366;
+}
+.color-dark-brown-f{
+    color: #311d0e;
+}
+.color-offWhite-f{
+    color: #FFF8DC;
+}
+.color-brown-f{
+    color: #834C24;
+}
+
+
+/*BODY*/
+.body{
+    background-color: #FFF8DC;
+}
